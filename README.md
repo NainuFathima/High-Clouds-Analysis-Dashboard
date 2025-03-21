@@ -11,6 +11,7 @@ This dashboard is designed to help analyze flight trends, optimize airline opera
 
 
 🚀 Features
+
 ✅ Total Passengers & Payload – Displays the number of passengers and transported weight.
 ✅ Total Mail & Freight – Shows the volume of transported mail and cargo.
 ✅ Total Departures – Summarizes the total number of flight departures.
@@ -22,13 +23,11 @@ This dashboard is designed to help analyze flight trends, optimize airline opera
 
 
 🔧 Requirements
+
 🖥 Microsoft Excel (2016 or later) or any software that supports advanced visualizations and interactive dashboards.
 
 
-📊 Usage
-1️⃣ Open the Excel file.
-2️⃣ Use interactive filters to explore specific insights.
-3️⃣ Analyze visualized data to improve decision-making and optimize airline operations.
+
 
 
 
