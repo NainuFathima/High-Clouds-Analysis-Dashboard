@@ -5,7 +5,7 @@
 
 📌 Overview
 
-The High Clouds Airlines Analysis Dashboard is an interactive Excel dashboard that provides insights into airline operations. It visualizes key metrics such as total passengers, payload, freight, mail, departures, top routes, passenger transport regions, and class distribution.
+The High Clouds Airlines Analysis Dashboard is an interactive Excel dashboard that provides insights into airline operations. It visualizes key metrics such as total passengers, payload, freight, mail, departures, top routes, passenger transport regions, and class distribution. 
 
 This dashboard is designed to help analyze flight trends, optimize airline operations, and enhance data-driven decision-making.
 
