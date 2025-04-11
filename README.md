@@ -27,7 +27,7 @@ The goal of this project is to showcase advanced Excel dashboard skills and prov
 
 ## 📁 Files Included
 
-- `HighClouds_Airlines_Dashboard.xlsx` – Excel dashboard file
+- `HighClouds_Airlines_Dashboard.xlsx` – https://github.com/NainuFathima/High-Clouds-Analysis-Dashboard/blob/22380d81ecce35305ed01b07bdece14d77efb064/EXCEL%20DASHBOARD.xlsx
 - Dashboard image (https://github.com/NainuFathima/High-Clouds-Analysis-Dashboard/blob/19284df0c1b5921e2cf5dae512e432201ec13989/EXCEL%20Dashboard%20Image.png)
 - `README.md` – Project documentation
 
