@@ -58,6 +58,8 @@ The goal of this project is to showcase advanced Excel dashboard skills and prov
 ## 📩 Contact
 
 Author : **Nainu**
+- Email: **nainufathima1@gmail.com**
+- LinkedIn: **https://www.linkedin.com/in/nainu-fathima-26a525219**
 - Tools : Excel | High Cloud Aviation data set
 
 
