@@ -1,30 +1,66 @@
-# High-Clouds-Analysis-Dashboard
+# ✈️ High Clouds Airlines Analysis | Excel Dashboard
 
-✈ High Clouds Airlines Analysis Dashboard
+An interactive Excel-based dashboard providing in-depth insights into airline operations. This project visualizes key performance indicators such as passenger count, freight, mail, payload, and departures to support data-driven decision-making in the aviation industry.
+
+## 📌 Dashboard Overview
+
+This Excel dashboard provides:
+
+- **Total Passengers & Payload Metrics**
+- **Total Mail & Freight Volume**
+- **Flight Departures Summary**
+- **Top 5 Busiest Routes**
+- **Passenger Transport by Region** (Atlantic, Domestic, Latin America, Pacific)
+- **Departure Scheduled vs. Performed Comparison**
+- **Passenger Class Distribution** (F, G, L, P)
+- **Interactive Filters** for Flight Type (Domestic/International) and Month
+
+## 🛠️ Tools & Technologies
+
+- **Microsoft Excel** – for cleaning the data , building the dashboard and visualizing aviation data
+- **Excel Charts & Pivot Tables** – for dynamic analysis
+- **Slicers & Data Validation** – for interactivity
+
+## 📌 Objective
+
+The goal of this project is to showcase advanced Excel dashboard skills and provide stakeholders with a quick and intuitive view of airline performance across multiple dimensions.
+
+## 📁 Files Included
+
+- `HighClouds_Airlines_Dashboard.xlsx` – Excel dashboard file
+- Dashboard image ()
+- `README.md` – Project documentation
+
+## 📷 Dashboard Preview
+
+![Dashboard Preview](images/airlines-dashboard-preview.png)
+
+## 🚀 How to Use
+
+1. **Open** the Excel file using Excel 2016 or later.
+2. Use the **interactive filters** (slicers) to explore data by flight type and month.
+3. **Analyze trends** in passenger distribution, route popularity, and flight performance.
+
+## 📈 Key Insights
+
+- Identify top-performing routes by passenger count and cargo volume.
+- Evaluate operational efficiency via scheduled vs. performed departures.
+- Analyze class-wise passenger trends to improve service planning.
+- Understand regional transport patterns to optimize route allocations.
+
+## 💡 Future Enhancements
+
+- Integrate additional data sources (e.g., fuel usage, delays).
+- Automate data refresh using Power Query.
+
+---
+
+## 📩 Contact
+
+Author : **Nainu**
 
 
-📌 Overview
 
-The High Clouds Airlines Analysis Dashboard is an interactive Excel dashboard that provides insights into airline operations. It visualizes key metrics such as total passengers, payload, freight, mail, departures, top routes, passenger transport regions, and class distribution. 
-
-This dashboard is designed to help analyze flight trends, optimize airline operations, and enhance data-driven decision-making.
-
-
-🚀 Features
-
-✅ Total Passengers & Payload – Displays the number of passengers and transported weight.
-✅ Total Mail & Freight – Shows the volume of transported mail and cargo.
-✅ Total Departures – Summarizes the total number of flight departures.
-✅ Top 5 Routes – Highlights the busiest flight routes.
-✅ Passenger Transport by Region – Breaks down passenger distribution across Atlantic, Domestic, Latin America, and Pacific regions.
-✅ Departure Scheduled vs. Performed – Compares planned vs. actual flight departures.
-✅ Passenger Transport by Class – Visualizes passenger distribution across different travel classes (F, G, L, P).
-✅ Filters – Enables interactive data filtering by flight type (Domestic/International) and month.
-
-
-🔧 Requirements
-
-🖥 Microsoft Excel (2016 or later) or any software that supports advanced visualizations and interactive dashboards.
 
 
 
